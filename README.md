@@ -1,4 +1,6 @@
 Hashed Password Cracker
+
+
 Overview:
 This Python script cracks hashed passwords using a dictionary attack with MD5 hashing.
 
